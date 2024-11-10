@@ -73,7 +73,7 @@ global.APIKeys = {
 // Sticker WM
 global.premium = 'true'
 global.packname = 'GLOBAL-MD'
-global.author = 'Sreejit💌
+global.author = 'Sreejit💌'
 global.menuvid = 'https://i.imgur.com/2U2K9YA.mp4'
 global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/'
 global.dygp = '❤️'
